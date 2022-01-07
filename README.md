@@ -2,10 +2,12 @@
 
 The UFPR-ADMRv2 dataset contains 5,000 dial meter images obtained on-site by employees of the Energy Company of Paraná (Copel), which serves more than 4M consuming units in the Brazilian state of Paraná. The images were acquired with many different cameras and are available in the JPG format with 320×640 or 640×320 pixels (depending on the camera orientation). More details are available in our paper [currently under review].
 
-The dataset is split into three subsets: training (3,000 images), validation (1,000 images) and testing (1,000 images). Every image has the following annotations available in a .txt file: the counter’s corners (x1, y1), (x2, y2), (x3, y3), (x4, y4). The corners can be used to rectify the counter patch and represent, respectively, the top-left, top-right, bottom-right, and bottom-left corners. For each dial, the current position (x, y, w, h) and the corresponding reading (the final reading as well as the approximate reading with one decimal place precision). All counters of the dataset (regardless of meter type) have 4 or 5 dials; thus, 22,410 dials were manually annotated. The full details and statistics regarding the dataset are available in our paper.
-
 Here are some examples from the dataset:  
-<img src="./media/samples.jpg"/>
+<img src="./media/samples.jpg" width="520" height="507" />
+
+The dataset is split into three subsets: training (3,000 images), validation (1,000 images) and testing (1,000 images). Every image has the following annotations available in a .txt file: the counter’s corners (x1, y1), (x2, y2), (x3, y3), (x4, y4). The corners can be used to rectify the counter patch and represent, respectively, the top-left, top-right, bottom-right, and bottom-left corners. For each dial, the current position (x, y, w, h) and the corresponding reading (the final reading as well as the approximate reading with one decimal place precision). All counters of the dataset (regardless of meter type) have 4 or 5 dials; thus, 22,410 dials were manually annotated. 
+
+The full details and statistics regarding the dataset are available in our paper.
 
 ## How to obtain the dataset
 
