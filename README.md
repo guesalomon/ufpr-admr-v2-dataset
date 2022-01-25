@@ -37,6 +37,8 @@ You may also be interested in the conference version of this paper, where we int
 
 * G. Salomon, R. Laroca, D. Menotti, “*Deep Learning for Image-based Automatic Dial Meter Reading: Dataset and Baselines*” in International Joint Conference on Neural Networks (IJCNN), July 2020, pp. 1–8. [[IEEE Xplore]](https://www.doi.org/10.1109/IJCNN48605.2020.9207318) [[arXiv]](https://arxiv.org/abs/2005.03106)
 
+Additionally, consider showing your support by starring this repository.
+
 ## Related publications
 
 A list of all papers on AMR published by us can be seen [here](https://scholar.google.com/scholar?hl=pt-BR&as_sdt=0%2C5&as_ylo=2019&q=allintitle%3A+meter+reading+author%3A%22David+Menotti%22&btnG=).
