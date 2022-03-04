@@ -15,6 +15,8 @@ The UFPR-ADMR-v2 dataset is the property of the Energy Company of Paraná (Copel
 
 To be able to download the dataset, please read carefully [**this license agreement**](./pdfs/license-agreement.pdf), fill it out and send it back to Professor David Menotti ([menotti@inf.ufpr.br](mailto:menotti@inf.ufpr.br)). The license agreement MUST be reviewed and signed by the individual or entity authorized to make legal commitments on behalf of the institution or corporation (e.g., Department/Administrative Head, or similar). **We cannot accept licenses signed by students or faculty members.**
 
+In general, you will receive a download link within 1-3 business days. Failure to follow the instructions may result in no response.
+
 ## Citation
 
 If you use the UFPR-ADMR-v2 dataset in your research, please cite our paper:
@@ -37,7 +39,7 @@ You may also be interested in the conference version of this paper, where we int
 
 * G. Salomon, R. Laroca, D. Menotti, “*Deep Learning for Image-based Automatic Dial Meter Reading: Dataset and Baselines*” in International Joint Conference on Neural Networks (IJCNN), July 2020, pp. 1–8. [[IEEE Xplore]](https://www.doi.org/10.1109/IJCNN48605.2020.9207318) [[arXiv]](https://arxiv.org/abs/2005.03106)
 
-Additionally, consider showing your support by starring this repository.
+Additionally, consider showing your support by starring (:star:) this repository.
 
 ## Related publications
 
