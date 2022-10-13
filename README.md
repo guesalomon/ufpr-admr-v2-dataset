@@ -21,17 +21,18 @@ In general, you will receive a download link within 1-3 business days. Failure t
 
 If you use the UFPR-ADMR-v2 dataset in your research, please cite our paper:
 
-* G. Salomon, R. Laroca, D. Menotti, “Image-based Automatic Dial Meter Reading in Unconstrained Scenarios,” arXiv preprint, arXiv:2201.02850, pp. 1-10, 2022. [[arXiv]](https://arxiv.org/abs/2201.02850)
+* G. Salomon, R. Laroca, D. Menotti, “Image-based Automatic Dial Meter Reading in Unconstrained Scenarios,” Measurement, 2022. [[arXiv]](https://arxiv.org/abs/2201.02850) [[Science Direct]](https://doi.org/10.1016/j.measurement.2022.112025)
 
 ```
 @article{salomon2022image,
   title = {Image-based Automatic Dial Meter Reading in Unconstrained Scenarios},
-  author={G. {Salomon} and R. {Laroca} and D. {Menotti}}, 
+  author={G. {Salomon} and R. {Laroca} and D. {Menotti}},
   year = {2022},
-  journal = {arXiv preprint},
-  volume = {arXiv:2201.02850},
-  number = {},
-  pages = {1-10}
+  journal = {Measurement},
+  pages = {112025},
+  doi = {10.1016/j.measurement.2022.112025},
+  issn = {0263-2241},
+  keywords = {Automatic Meter Reading, Dial meters, Pointer-type meters, Deep learning, Public dataset}
 }
 ```
 
