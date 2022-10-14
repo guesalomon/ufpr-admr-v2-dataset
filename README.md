@@ -1,6 +1,6 @@
 # UFPR-ADMR-v2 Dataset
 
-The UFPR-ADMR-v2 dataset contains 5,000 dial meter images obtained on-site by employees of the Energy Company of Paraná (Copel), which serves more than 4M consuming units in the Brazilian state of Paraná. The images were acquired with many different cameras and are available in the JPG format with 320×640 or 640×320 pixels (depending on the camera orientation). More details are available in our [paper](./pdfs/salomon2022image.pdf) (currently under review).
+The UFPR-ADMR-v2 dataset contains 5,000 dial meter images obtained on-site by employees of the Energy Company of Paraná (Copel), which serves more than 4M consuming units in the Brazilian state of Paraná. The images were acquired with many different cameras and are available in the JPG format with 320×640 or 640×320 pixels (depending on the camera orientation). More details are available in our [paper](./pdfs/salomon2022image.pdf).
 
 Here are some examples from the dataset:  
 <img src="./media/samples.jpg" width="520" height="507" />
