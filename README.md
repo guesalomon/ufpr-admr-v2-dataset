@@ -15,24 +15,25 @@ The UFPR-ADMR-v2 dataset is the property of the Energy Company of Paraná (Copel
 
 To be able to download the dataset, please read carefully [**this license agreement**](./pdfs/license-agreement.pdf), fill it out and send it back to Professor David Menotti ([menotti@inf.ufpr.br](mailto:menotti@inf.ufpr.br)). The license agreement MUST be reviewed and signed by the individual or entity authorized to make legal commitments on behalf of the institution or corporation (e.g., Department/Administrative Head, or similar). **We cannot accept licenses signed by students or faculty members.**
 
-In general, you will receive a download link within 1-3 business days. Failure to follow the instructions may result in no response.
+In general, you will receive a download link within 1-5 business days. Failure to follow the instructions may result in no response.
 
 ## Citation
 
 If you use the UFPR-ADMR-v2 dataset in your research, please cite our paper:
 
-* G. Salomon, R. Laroca, D. Menotti, “Image-based Automatic Dial Meter Reading in Unconstrained Scenarios,” Measurement, 2022. [[arXiv]](https://arxiv.org/abs/2201.02850) [[Science Direct]](https://doi.org/10.1016/j.measurement.2022.112025)
+* G. Salomon, R. Laroca, D. Menotti, “Image-based Automatic Dial Meter Reading in Unconstrained Scenarios,” *Measurement*, vol. 204, p. 112025, 2022. [[arXiv]](https://arxiv.org/abs/2201.02850) [[Science Direct]](https://doi.org/10.1016/j.measurement.2022.112025)
 
 ```
 @article{salomon2022image,
   title = {Image-based Automatic Dial Meter Reading in Unconstrained Scenarios},
-  author={G. {Salomon} and R. {Laroca} and D. {Menotti}},
+  author = {G. {Salomon} and R. {Laroca} and D. {Menotti}},
   year = {2022},
   journal = {Measurement},
+  volume = {204},
   pages = {112025},
   doi = {10.1016/j.measurement.2022.112025},
   issn = {0263-2241},
-  keywords = {Automatic Meter Reading, Dial meters, Pointer-type meters, Deep learning, Public dataset}
+  keywords = {Automatic Meter Reading, Dial meters, Pointer-type meters, Deep learning, Public dataset},
 }
 ```
 
